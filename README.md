@@ -1,6 +1,6 @@
 # Tableau
 
-## 1. Installing Tableau and Creating Your First Visualization
+## Installing Tableau and Creating Your First Visualization
 
 ### Installing Tableau Public
 
@@ -31,7 +31,7 @@
 
 ![image.png](image.png)
 
-## 2. Using Joins in Tableau
+## Using Joins in Tableau
 
 Download excel file: https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Tableau%20Joins%20File.xlsx
 
@@ -49,7 +49,7 @@ Download excel file: https://github.com/AlexTheAnalyst/PortfolioProjects/blob/ma
 
 ![image.png](image%201.png)
 
-## 3. Creating Visualizations
+## Creating Visualizations
 
 Download this dataset: https://www.kaggle.com/datasets/starbucks/store-locations
 
@@ -73,7 +73,7 @@ Download this dataset: https://www.kaggle.com/datasets/starbucks/store-locations
     ![image.png](image%204.png)
     
 
-## 4. Using Calculated Fields and Bins
+## Using Calculated Fields and Bins
 
 ### **Bins**
 
