@@ -1,5 +1,23 @@
 # Tableau
 
+## Table of Contents
+
+- [Tableau](#tableau)
+- [Installing Tableau and Creating Your First Visualization](#installing-tableau-and-creating-your-first-visualization)
+  - [Installing Tableau Public](#installing-tableau-public)
+  - [Connecting to a Dataset](#connecting-to-a-dataset)
+  - [Creating Basic Visualizations](#creating-basic-visualizations)
+- [Using Joins in Tableau](#using-joins-in-tableau)
+  - [Understanding Joins vs. Relationships](#understanding-joins-vs-relationships)
+  - [Types of Joins in Tableau](#types-of-joins-in-tableau)
+- [Creating Visualizations](#creating-visualizations)
+  - [Common Charts in Tableau](#common-charts-in-tableau)
+- [Using Calculated Fields and Bins](#using-calculated-fields-and-bins)
+  - [Bins](#bins)
+  - [Calculated Fields](#calculated-fields)
+- [Summary](#summary)
+
+
 ## Installing Tableau and Creating Your First Visualization
 
 ### Installing Tableau Public
