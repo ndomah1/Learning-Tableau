@@ -1,4 +1,4 @@
-# Tableau
+# Learning Tableau
 
 ## Table of Contents
 
