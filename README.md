@@ -2,7 +2,6 @@
 
 ## Table of Contents
 
-- [Tableau](#tableau)
 - [Installing Tableau and Creating Your First Visualization](#installing-tableau-and-creating-your-first-visualization)
   - [Installing Tableau Public](#installing-tableau-public)
   - [Connecting to a Dataset](#connecting-to-a-dataset)
