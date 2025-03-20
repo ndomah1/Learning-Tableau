@@ -47,7 +47,7 @@
     - Use the sorting feature to organize the data and assign distinct colors to each genre for clarity.
     - Finally, combine these worksheets into a dashboard for a comprehensive view.
 
-![image.png](image.png)
+![image.png](https://github.com/ndomah1/Learning-Tableau/blob/main/images/image.png)
 
 ## Using Joins in Tableau
 
@@ -65,7 +65,7 @@ Download excel file: https://github.com/AlexTheAnalyst/PortfolioProjects/blob/ma
 - **Right Join:** Includes all records from the right table and matches from the left.
 - **Full Outer Join:** Includes all records from both tables.
 
-![image.png](image%201.png)
+![image.png](https://github.com/ndomah1/Learning-Tableau/blob/main/images/image%201.png)
 
 ## Creating Visualizations
 
@@ -75,20 +75,20 @@ Download this dataset: https://www.kaggle.com/datasets/starbucks/store-locations
 
 - **Bar and Line Graphs:** Combine bars and lines for comparative sales analysis.
     
-    ![image.png](image%202.png)
+    ![image.png](https://github.com/ndomah1/Learning-Tableau/blob/main/images/image%202.png)
     
 - **Maps:** Use geographic data (longitude/latitude) to create density or filled maps.
     - Import **Starbucks store locations** dataset.
     - Drag `Latitude` and `Longitude` into **Columns** and **Rows**.
     - Use **State** or **Postal Code** as a level of detail.
         
-        ![Store location density by zipcode.](image%203.png)
+        ![Store location density by zipcode.](https://github.com/ndomah1/Learning-Tableau/blob/main/images/image%203.png)
         
         Store location density by zipcode.
         
 - **Scatter Plots:** Compare two numeric fields to analyze correlations.
     
-    ![image.png](image%204.png)
+    ![image.png](https://github.com/ndomah1/Learning-Tableau/blob/main/images/image%204.png)
     
 
 ## Using Calculated Fields and Bins
@@ -100,18 +100,18 @@ Download this dataset: https://www.kaggle.com/datasets/starbucks/store-locations
 - Bins turn continuous numeric values into categories, making it easier to compare grouped data (for instance, total sales per 5-year range).
 - You can exclude null or unwanted values from the view if needed (e.g., by right-clicking on null bars and selecting **Exclude**).
 
-![image.png](image%205.png)
+![image.png](https://github.com/ndomah1/Learning-Tableau/blob/main/images/image%205.png)
 
 ### **Calculated Fields**
 
 - Calculated fields let you build new measures or dimensions from existing data (e.g., `[Global Sales] - [EU Sales]`).
 - To create one, click the dropdown next to a field, choose **Create → Calculated Field**, then enter your formula.
 
-![image.png](image%206.png)
+![image.png](https://github.com/ndomah1/Learning-Tableau/blob/main/images/image%206.png)
 
 - Quick table calculations (like “Percent of Total”) are built-in options, and you can drag them into the data pane to save them as custom fields.
 
-![image.png](image%207.png)
+![image.png](https://github.com/ndomah1/Learning-Tableau/blob/main/images/image%207.png)
 
 - Use calculated fields to perform basic arithmetic, combine fields, or handle more complex logic, depending on your analysis needs.
 
